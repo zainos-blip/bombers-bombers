@@ -1,0 +1,5 @@
+# Bombers Bombers!!!
+
+# Introducing Bombers Bombers: An Universal Email Bomber
+
+I'm excited to share my latest project, Bombers Bombers, an email bomber I've developed. The main code is designed to work across various mail providers, which was a challenge of its own. However, I faced a little hiccup with Outlook. But, no hurdle lasts long in the face of determination, right? So, I went ahead and wrote a separate script specifically for Outlook. My plan is to eventually embed this into the main code.
